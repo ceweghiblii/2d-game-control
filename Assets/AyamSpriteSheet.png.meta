@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 74ec336342b14684984155aebbf2410d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AyamSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 603
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca7f0a3f3729349a9ff8bc39a940a0
+      internalID: 309061664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 603
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cb068fcfd645341a00596465f8e708
+      internalID: 540652104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 603
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d201786b026f2469e62b9d9fabb29c
+      internalID: 1591044579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 603
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6fba432764a3d42b3dc76ef78bea88
+      internalID: 259577740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 603
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b624a9ffdaec349b7127a1b863c64c
+      internalID: -991359111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 602
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1408eb4ad6f35c946b58869736060a2b
+      internalID: 2064233213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 603
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b0a23bc52b5b40aa1e9ebdf618b03
+      internalID: 1945862138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 603
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516cfc830494874409fd8774b9369732
+      internalID: -1439622862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 603
+        width: 102
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398e753b386ccf3498beab2dfa322a7a
+      internalID: 392673190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 455
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b3434b1aa2554f986df0a5272a4e1
+      internalID: -175521982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 450
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c410aef7a62de468f42d1f2a547591
+      internalID: -989945169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 451
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa824eb8542a348bffd31aee19191d
+      internalID: -1074116978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 456
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b8b9a1ef89194189a06e16c6fc98f
+      internalID: -1583276466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 451
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ce09ce50a92f4f87bc6b881bdca9b
+      internalID: 765604920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 452
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04d22fea199f043ad95baeba4f1a8f
+      internalID: 2142117553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 460
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704b9bfec7ec9084397153f54d2257e0
+      internalID: 1421553820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 454
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a1357f5e2dd646b24519c81224b13
+      internalID: -1000098944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 453
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07bfe3e2cd1fba4cb5e707d6b7c3294
+      internalID: -889413685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 302
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89651bccb77d9444eab92da969dd5fe8
+      internalID: 1938245411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 301
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ee598e39d5764a842d4f2530a55de
+      internalID: 821041899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 300
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37654868eef536409e58d5ad71f5845
+      internalID: 1277673780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 303
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22900b4fa0152743a8b9ee5bc7b741d
+      internalID: 2038569058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 301
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301c25ef9423e964dbb3c3823396f872
+      internalID: 2072975644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 301
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb2e76331d23f945bc5412b47e9a6fc
+      internalID: -1083082387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 306
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57854a5c7762cd349863c5e15cfac5ca
+      internalID: 142484830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 304
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c3336307e6c934b88cd0488dcf5cbd
+      internalID: 558738713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 304
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8180597170223eb4c97921814fefd9a3
+      internalID: 723910935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5521a2f106b0a954f8d677e26f7cd845
+      internalID: 1769375676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 153
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ec94eb228ac6e4c9e1853ddb82be4b
+      internalID: -676249875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 152
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a794f31a5ef21fb4fbf443301d5dbe2e
+      internalID: -1660901355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 156
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2eb6993c3db42429e9b6f8804c8adf
+      internalID: -776687699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 153
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e937102fa7f947895b2ff92631a56
+      internalID: -950609539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 153
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b8cccbcc3ba554d9a5dd9f55f90dc3
+      internalID: 1169749481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 157
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23483cc1970f39f4cbea9a4c2dd2b875
+      internalID: -1491392195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 154
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcec6f71b797cd4d9a6b7556e60a646
+      internalID: 70079708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 154
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387fed9114b3ec14b8b7a90151804b36
+      internalID: -1224432652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb879946698381f418abc03d09cad63c
+      internalID: 1321746388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68796964eb243d478ff06c6bd3baca0
+      internalID: -1997929880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ff1651ad204324fb2a10179898315c
+      internalID: 487356065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 5
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a3af0ba6b5f1746a89e5c2a82e641c
+      internalID: 341761740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd429bffcde48ca4a939ccbb5801ddd6
+      internalID: -121018112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752baeedc5523cb47835c610e0cc3eb3
+      internalID: 1409729746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 4
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00edb408867e34985737d309007a96
+      internalID: 264964649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db12accfed8824e8fab54c8455ebc7
+      internalID: 974965703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AyamSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076491f3aef36646a55c12de23bb665
+      internalID: -743001721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AyamSpriteSheet_0: 309061664
+      AyamSpriteSheet_1: 540652104
+      AyamSpriteSheet_10: -989945169
+      AyamSpriteSheet_11: -1074116978
+      AyamSpriteSheet_12: -1583276466
+      AyamSpriteSheet_13: 765604920
+      AyamSpriteSheet_14: 2142117553
+      AyamSpriteSheet_15: 1421553820
+      AyamSpriteSheet_16: -1000098944
+      AyamSpriteSheet_17: -889413685
+      AyamSpriteSheet_18: 1938245411
+      AyamSpriteSheet_19: 821041899
+      AyamSpriteSheet_2: 1591044579
+      AyamSpriteSheet_20: 1277673780
+      AyamSpriteSheet_21: 2038569058
+      AyamSpriteSheet_22: 2072975644
+      AyamSpriteSheet_23: -1083082387
+      AyamSpriteSheet_24: 142484830
+      AyamSpriteSheet_25: 558738713
+      AyamSpriteSheet_26: 723910935
+      AyamSpriteSheet_27: 1769375676
+      AyamSpriteSheet_28: -676249875
+      AyamSpriteSheet_29: -1660901355
+      AyamSpriteSheet_3: 259577740
+      AyamSpriteSheet_30: -776687699
+      AyamSpriteSheet_31: -950609539
+      AyamSpriteSheet_32: 1169749481
+      AyamSpriteSheet_33: -1491392195
+      AyamSpriteSheet_34: 70079708
+      AyamSpriteSheet_35: -1224432652
+      AyamSpriteSheet_36: 1321746388
+      AyamSpriteSheet_37: -1997929880
+      AyamSpriteSheet_38: 487356065
+      AyamSpriteSheet_39: 341761740
+      AyamSpriteSheet_4: -991359111
+      AyamSpriteSheet_40: -121018112
+      AyamSpriteSheet_41: 1409729746
+      AyamSpriteSheet_42: 264964649
+      AyamSpriteSheet_43: 974965703
+      AyamSpriteSheet_44: -743001721
+      AyamSpriteSheet_5: 2064233213
+      AyamSpriteSheet_6: 1945862138
+      AyamSpriteSheet_7: -1439622862
+      AyamSpriteSheet_8: 392673190
+      AyamSpriteSheet_9: -175521982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
